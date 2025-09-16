@@ -64,68 +64,23 @@
 
 ### 🚀 Getting Started
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/food-delivery-ui.git
-   cd food-delivery-ui
-   ```
-2. **Install Dependencies**
-   ```bash
-   npm install
-   # or
-   yarn
-   ```
-3. **Run the Development Server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) to view the app.
+### 1. Clone the Repository & Install Dependencies
 
+```bash
+git clone https://github.com/your-username/food-delivery-ui.git
+cd food-delivery-ui
 
----
-
-### ▶️ Usage
-
-- Browse restaurants, categories, and features
-- Toggle between dark and light themes
-- Responsive design for all devices
-
-
----
-
-### 📁 Folder Structure
-
-```text
-├── app/
-│   ├── aboutus/
-│   ├── contactus/
-│   ├── features/
-│   ├── restaurants/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── Helper/
-│   ├── HOC/
-│   ├── Home/
-│   └── ...
-├── constant/
-├── public/
-│   └── images/
-├── package.json
-├── tailwind.config.js
-├── tsconfig.json
-└── ...
+npm install
+# or
+yarn
 ```
+## ⚙️ Tech Stack
 
+Next.js – React framework with SSR support
 
+Tailwind CSS – Utility-first CSS framework
 
-
----
-
-### 💡 Future Improvements
+## 💡 Future Improvements
 
 - Authentication (login/signup)
 - Integrate live APIs for dynamic food items
