@@ -1,11 +1,11 @@
-# Food Delivery
+# Foodie
 
 <div align="center">
-  <img src="public/images/hero.png" alt="Food Delivery UI" width="220" />
+  <img src="public/images/hero.png" alt="Foodie" width="220" />
 </div>
 
 <div align="center">
-  <strong>Food Delivery UI</strong>
+  <strong>Foodie - Modern Food Delivery UI</strong>
 </div>
 
 <div align="center">
@@ -34,8 +34,8 @@ A sleek and fully responsive food delivery web UI featuring clean layouts, reusa
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/food-delivery.git
-cd food-delivery
+git clone https://github.com/your-username/foodie.git
+cd foodie
 npm install
 npm run dev
 ```
